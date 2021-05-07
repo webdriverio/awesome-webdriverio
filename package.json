@@ -1,0 +1,26 @@
+{
+  "name": "awesome-webdriverio",
+  "version": "1.0.0",
+  "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdriverio-community/awesome-webdriverio.git"
+  },
+  "keywords": [
+    "awesome",
+    "webdriverio"
+  ],
+  "author": "Christian Bromann <christian@saucelabs.com>",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webdriverio-community/awesome-webdriverio/issues"
+  },
+  "homepage": "https://github.com/webdriverio-community/awesome-webdriverio#readme",
+  "devDependencies": {
+    "awesome-lint": "^0.1.0"
+  }
+}
