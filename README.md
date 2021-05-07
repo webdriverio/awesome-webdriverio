@@ -40,23 +40,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Documentation
 
-- [WebdriverIO 4.x](http://v4.webdriver.io/) - WebdriverIO 4.x Documentation
-- [WebdriverIO 5.x](http://v5.webdriver.io/) - WebdriverIO 5.x Documentation
-- [WebdriverIO 6.x](http://v6.webdriver.io/) - WebdriverIO 6.x Documentation
+- [WebdriverIO 4.x](http://v4.webdriver.io) - WebdriverIO 4.x Documentation
+- [WebdriverIO 5.x](http://v5.webdriver.io) - WebdriverIO 5.x Documentation
+- [WebdriverIO 6.x](http://v6.webdriver.io) - WebdriverIO 6.x Documentation
 
 ### Community
 
 - [StackOverflow](http://stackoverflow.com/tags/webdriver-io)
 - [Gitter Chat](https://gitter.im/webdriverio/webdriverio)
-- [#webdriverio in Selenium Slack](https://seleniumhq.slack.com/join/shared_invite/zt-f7jwg1n7-RVw4v4sMA7Zjufira_~EVw#/)
+- [#webdriverio in Selenium Slack](https://seleniumhq.slack.com/join/shared_invite/zt-f7jwg1n7-RVw4v4sMA7Zjufira_~EVw)
 
 ### Twitter
 
 *People passionate about WebdriverIO (In no particular order)*
 
-- [Christian Bromann](https://twitter.com/bromann) Staff Software Engineer at the Open Source Program Office [@saucelabs](https://saucelabs.com/)
+- [Christian Bromann](https://twitter.com/bromann) Staff Software Engineer at the Open Source Program Office [@saucelabs](https://saucelabs.com)
 - [Kevin Lamping](https://twitter.com/klamping) Senior Front End Engineer.
-- [Wim Selles](https://twitter.com/wswebcreation) Senior Solutions Architect [@saucelabs](https://saucelabs.com/)
+- [Wim Selles](https://twitter.com/wswebcreation) Senior Solutions Architect [@saucelabs](https://saucelabs.com)
 
 [Back to top](#contents)
 
@@ -82,11 +82,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Articles
 
-- Ross Addinall | 20-Apr-21 - [Cypress vs WebDriverIO](https://vitaq.io/2021/04/20/cypress-vs-webdriverio/)
+- Ross Addinall | 20-Apr-21 - [Cypress vs WebDriverIO](https://vitaq.io/2021/04/20/cypress-vs-webdriverio)
 
 ### Videos
 
-- [UI Automation with WebdriverIO](https://testautomationu.applitools.com/webdriverio-tutorial/) by Julia Pottinger
+- [UI Automation with WebdriverIO](https://testautomationu.applitools.com/webdriverio-tutorial) by Julia Pottinger
 
 ### Courses
 
