@@ -5,7 +5,7 @@
 
 **[WebdriverIO](https://github.com/webdriverio/webdriverio)** Next-gen browser and mobile automation test framework for Node.js
 
-## Awesome WebdriverIO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/webdriverio-community/awesome-webdriverio.svg?branch=main)](https://travis-ci.org/webdriverio-community/awesome-webdriverio)
+## Awesome WebdriverIO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Test](https://github.com/webdriverio-community/awesome-webdriverio/actions/workflows/test.yaml/badge.svg)](https://github.com/webdriverio-community/awesome-webdriverio/actions/workflows/test.yaml)
 
 > A curated list of awesome WebdriverIO resources, libraries, tools and applications
 
