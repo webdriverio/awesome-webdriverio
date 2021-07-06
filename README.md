@@ -105,7 +105,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Courses
 
-- [Scale Your Automated Testing with BrowserStack and WebdriverIO](https://www.youtube.com/watch?v=bW3SM46xslE) by Kevin Lamping
+- [Web App Testing with WebdriverIO](https://learn.webdriver.io) by Kevin Lamping
 
 ### Books
 
