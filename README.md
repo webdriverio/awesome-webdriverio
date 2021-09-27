@@ -94,6 +94,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Learn WebdriverIO Course](https://www.youtube.com/watch?v=I5hRcPH5dx8&list=PL0y7qCn3hjLY6JvohBcmUHKHf_iOi8WuF&ab_channel=Front-endTestingwithKevin) by Kevin Lamping
 - [WebDriverIO - JavaScript Tool](https://www.youtube.com/watch?v=7J3FnyEGXd4&list=PLFGoYjJG_fqqswF8qDdWNG3b-BtZfiqQn&ab_channel=NaveenAutomationLabs) by Naveen AutomationLabs
 - [WebdriverIO : NETWORK LOGS](https://www.youtube.com/watch?v=Be9IPyxHmLs) by Seventeenth Sep
+- [WebdriverIO with TypeScript and BDD Framework](https://www.youtube.com/watch?v=FnC--5WB8ow&list=PLGk7ftfMz7jbZcArQU894rAfo6B1PbXbG&ab_channel=TestAutomationHub) by TestAutomationHub
 
 ### Conference/Meetup Talks/Webinars
 
