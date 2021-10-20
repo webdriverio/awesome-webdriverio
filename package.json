@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webdriverio-community/awesome-webdriverio.git"
+    "url": "git+https://github.com/webdriverio/awesome-webdriverio.git"
   },
   "keywords": [
     "awesome",
@@ -17,10 +17,10 @@
   "contributors": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/webdriverio-community/awesome-webdriverio/issues"
+    "url": "https://github.com/webdriverio/awesome-webdriverio/issues"
   },
-  "homepage": "https://github.com/webdriverio-community/awesome-webdriverio#readme",
+  "homepage": "https://github.com/webdriverio/awesome-webdriverio#readme",
   "devDependencies": {
-    "awesome-lint": "^0.1.0"
+    "awesome-lint": "^0.18.0"
   }
 }
