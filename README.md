@@ -66,11 +66,43 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 - [WebdriverIO Community Services](https://github.com/webdriverio-community?q=service) - A set of community maintained services.
 - [Wdi5](https://github.com/js-soft/wdi5) - Cross-platform test framework for hybrid UI5 apps. wdi5 = Webdriver.IO + UI5 Test API + appium.
+- [ChromeDriver](https://github.com/webdriverio-community/wdio-chromedriver-service) - Run Chrome browser seamlessly when running tests.
+- [SafariDriver](https://github.com/webdriverio-community/wdio-safaridriver-service) - Run Safari browser seamlessly when running tests.
+- [GeckoDriver](https://github.com/webdriverio-community/wdio-geckodriver-service) - Run Gecko browser seamlessly when running tests.
+- [EdgeDriver](https://github.com/webdriverio-community/wdio-edgedriver-service) - Run Microsoft Edge browser seamlessly when running tests.
+- [Gmail](https://github.com/webdriverio-community/wdio-gmail-service) - Fetch e-mails from Google Mail.
+- [Intercept](https://github.com/webdriverio-community/wdio-intercept-service) - Capture and assert HTTP ajax calls.
+- [Zafira Listener](https://github.com/shashidharus/wdio-zafira-listener-service) - Report tests to Zafira Dashboard.
+- [Report Portal](https://github.com/borisosipov/wdio-reportportal-service) - Service used by Report Portal Reporter.
+- [Docker](https://github.com/stsvilik/wdio-docker-service) - Helps run functional/integration tests against/using containerized applications.
+- [WireMock](https://github.com/erwinheitzman/wdio-wiremock-service) - Run WireMock seamlessly when running tests.
+- [Slack](https://github.com/carmenmitru/wdio-slack-service) - Send test results as a slack notification/message to channels.
+- [LambdaTest](https://github.com/LambdaTest/wdio-lambdatest-service) - Manage tunnel and job metadata for LambdaTest users.
+- [Image Comparison (Visual Regression Testing)](https://github.com/wswebcreation/wdio-image-comparison-service) - Image comparison and visual regression testing.
+- [Ng-apimock](https://github.com/ng-apimock/webdriverio-plugin) - Service used by @ng-apimock/core.
+- [Novus Visual Regression](https://github.com/Jnegrier/wdio-novus-visual-regression-service) - Visual regression testing.
+- [Re-run](https://github.com/jwplayer/wdio-rerun-service) - Tracks failing tests and scenarios, allowing failing or unstable tests or scenarios to be re-run.
+- [winappdriver](https://github.com/licanhua/wdio-winappdriver-service) - Run WinAppDriver server seamlessly when running tests.
+- [ywinappdriver](https://github.com/licanhua/wdio-ywinappdriver-service) - Run ywinappdriver server seamlessly when running tests.
+- [PerformanceTotal](https://github.com/tzurp/performance-total) - Analyze performance of test automated flows.
+- [CleanupTotal](https://github.com/tzurp/cleanup-total) - Proper cleanup after each test made easy.
+- [AWS Device Farm](https://github.com/awslabs/wdio-aws-device-farm-service) - AWS Device Farm service.
+- [OCR service for Appium Native Apps](https://github.com/wswebcreation/wdio-ocr-service) - Run Tesseract OCR for Appium Native App tests.
+- [Auto-detect missing imports w/eslint](https://github.com/jamesmortensen/wdio-eslinter-service) - Automatically run eslint checks prior to executing tests.
 
 ### Reporters
 
 - [WebdriverIO Community Reporters](https://github.com/webdriverio-community?q=reporter) - A set of community maintained reporters.
-- [Report Portal Reporter](https://github.com/borisosipov/wdio-reportportal-reporter) - A WebdriverIO plugin. Report results to Report Portal.
+- [Report Portal](https://github.com/borisosipov/wdio-reportportal-reporter) - Report results to Report Portal.
+- [Video](https://github.com/presidenten/wdio-video-reporter) - Makes videos of failed tests and has optional allure integration.
+- [HTML](https://github.com/rpii/wdio-html-reporter) - Generates a nice HTML report.
+- [JSON](https://github.com/fijijavis/wdio-json-reporter) - Report results in JSON format.
+- [Mochawesome](https://github.com/fijijavis/wdio-mochawesome-reporter) - Report results in Mochawesome format.
+- [Timeline](https://github.com/QualityOps/wdio-timeline-reporter) - Report results in an aggregated visualisation interface.
+- [CucumberJS](https://github.com/wswebcreation/wdio-cucumberjs-json-reporter) - Report results in CucumberJS JSON format.
+- [Markdown](https://github.com/carmenmitru/wdio-markdown-reporter) - Report results in Markdown format.
+- [Delta Reporter](https://github.com/delta-reporter/delta-reporter-wdio) - Report results in Delta Reporter format.
+- [Teamcity](https://github.com/webdriverio-community/wdio-teamcity-reporter) - Report results to the build results page of Teamcity Portal.
 
 ### Miscellaneous
 
