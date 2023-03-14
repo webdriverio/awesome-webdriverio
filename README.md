@@ -109,6 +109,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 - [wdio-wait-for](https://github.com/webdriverio-community/wdio-wait-for) - A lightweight library of useful expected conditions for the WebdriverIO framework.
 - [@wdio/schematics](https://github.com/webdriverio/webdriverio-schematics) - A schematic to add WebdriverIO to an Angular project.
 - [@badisi/wdio-harness](https://github.com/Badisi/wdio-harness) - WebdriverIO support for Angular component test harnesses.
+- [@rbnx/webdriverio](https://github.com/Roozenboom/rbnx/tree/main/packages/webdriverio) - Nx plugin that adds WebdriverIO support to a Nx workspace.
 
 ## Research & Training
 
