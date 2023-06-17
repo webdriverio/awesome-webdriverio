@@ -110,6 +110,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 - [@wdio/schematics](https://github.com/webdriverio/webdriverio-schematics) - A schematic to add WebdriverIO to an Angular project.
 - [@badisi/wdio-harness](https://github.com/Badisi/wdio-harness) - WebdriverIO support for Angular component test harnesses.
 - [@rbnx/webdriverio](https://github.com/Roozenboom/rbnx/tree/main/packages/webdriverio) - Nx plugin that adds WebdriverIO support to a Nx workspace.
+- [@rahularanger/WTicks](https://github.com/RahulARanger/WTicks) - A Tool for exporting selenium side files to webdriverIO script.
 
 ## Research & Training
 
