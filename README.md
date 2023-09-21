@@ -45,6 +45,8 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 - [WebdriverIO 4.x](http://v4.webdriver.io) - WebdriverIO 4.x Documentation.
 - [WebdriverIO 5.x](http://v5.webdriver.io) - WebdriverIO 5.x Documentation.
 - [WebdriverIO 6.x](http://v6.webdriver.io) - WebdriverIO 6.x Documentation.
+- [WebdriverIO 7.x](http://v7.webdriver.io) - WebdriverIO 7.x Documentation.
+- [WebdriverIO 8.x](http://v8.webdriver.io) - WebdriverIO 8.x Documentation.
 
 ### Community
 
