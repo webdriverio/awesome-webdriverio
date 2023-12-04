@@ -20,6 +20,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
   - [Documentation](#documentation)
   - [Community](#community)
   - [Twitter](#twitter)
+  - [Sponsoring](#sponsoring)
 - [Plugins](#plugins)
   - [Services](#services)
   - [Reporters](#reporters)
@@ -50,9 +51,9 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ### Community
 
-- [Stack Overflow](http://stackoverflow.com/tags/webdriver-io)
-- [Gitter Chat](https://gitter.im/webdriverio/webdriverio)
+- [Discord Server](https://discord.webdriver.io)
 - [#webdriverio in Selenium Slack](https://seleniumhq.slack.com/join/shared_invite/zt-f7jwg1n7-RVw4v4sMA7Zjufira_~EVw)
+- [Stack Overflow](http://stackoverflow.com/tags/webdriver-io)
 
 ### Twitter
 
@@ -61,6 +62,15 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 - [Christian Bromann](https://twitter.com/bromann) - Staff Software Engineer at the Open Source Program Office at Sauce Labs.
 - [Kevin Lamping](https://twitter.com/klamping) - Senior Front End Engineer.
 - [Wim Selles](https://twitter.com/wswebcreation) - Senior Solutions Architect at Sauce Labs.
+
+### Sponsoring
+
+*The following references give you more information on how to financially support the project.*
+
+- [Sponsor Documentation](https://webdriver.io/docs/sponsor)
+- [GitHub Sponsor Page](https://github.com/sponsors/webdriverio)
+- [Open Collective Page](https://opencollective.com/webdriverio)
+- [Tidelift Sponsor Page](https://tidelift.com/subscription/pkg/npm-webdriverio?utm_source=npm-webdriverio&utm_medium=github_sponsor_button)
 
 ## Plugins
 
@@ -132,6 +142,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ### Conference/Meetup Talks/Webinars
 
+- [Electron Testing with WebdriverIO](https://www.youtube.com/watch?v=mAqxh3L_sP4) - By Christian Bromann.
 - [My favourite features of WebdriverIO](https://www.youtube.com/watch?v=CHcjEI3YZ7Y) - By Julia Pottinger.
 - [The Nuts and Bolts of WebdriverIO](https://www.youtube.com/watch?v=jOmvPpzLMf8) - By Christian Bromann.
 - [Using WebdriverIO with Data Provider](https://www.youtube.com/watch?v=0YQCVJk8K_Q) - By Kumar Vikram.
@@ -144,6 +155,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ### Books
 
+- [Enhanced Test Automation with WebdriverIO: Unlock the superpowers of hybrid testing frameworks](https://www.amazon.co.uk/dp/1837630186?ref_=cm_sw_r_cp_ud_dp_7PPKW4XNVXHFQ9XA2A0D) - Elevate your testing game to the next level using advanced techniques and proven strategies with this book for WebdriverIO beginners and automation pros alike.
 - [The Web App Testing Guidebook](https://leanpub.com/webapp-testing-guidebook) - Covers everything you need to know to get off the ground with UI testing. Examples are built using real-world scenarios, showing how you would actually write your tests. It's a step-by-step guide on how to effectively write UI test automation for the real world.
 - [Practical WebDriverIO](https://www.springer.com/de/book/9781484266601) - Teaches you intermediate and advanced methods for using WebDriverIO APIs.
 
