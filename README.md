@@ -20,7 +20,6 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
   - [Documentation](#documentation)
   - [Community](#community)
   - [Twitter](#twitter)
-  - [Sponsoring](#sponsoring)
 - [Plugins](#plugins)
   - [Services](#services)
   - [Reporters](#reporters)
@@ -39,7 +38,12 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ### Support WebdriverIO
 
+*The following references give you more information on how to financially support the project.*
+
 - [WebdriverIO Open Collective](https://opencollective.com/webdriverio) - Help support the teams ongoing development efforts.
+- [Sponsor Documentation](https://webdriver.io/docs/sponsor)
+- [GitHub Sponsor Page](https://github.com/sponsors/webdriverio)
+- [Tidelift Sponsor Page](https://tidelift.com/subscription/pkg/npm-webdriverio?utm_source=npm-webdriverio&utm_medium=github_sponsor_button)
 
 ### Documentation
 
@@ -62,15 +66,6 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 - [Christian Bromann](https://twitter.com/bromann) - Staff Software Engineer at the Open Source Program Office at Sauce Labs.
 - [Kevin Lamping](https://twitter.com/klamping) - Senior Front End Engineer.
 - [Wim Selles](https://twitter.com/wswebcreation) - Senior Solutions Architect at Sauce Labs.
-
-### Sponsoring
-
-*The following references give you more information on how to financially support the project.*
-
-- [Sponsor Documentation](https://webdriver.io/docs/sponsor)
-- [GitHub Sponsor Page](https://github.com/sponsors/webdriverio)
-- [Open Collective Page](https://opencollective.com/webdriverio)
-- [Tidelift Sponsor Page](https://tidelift.com/subscription/pkg/npm-webdriverio?utm_source=npm-webdriverio&utm_medium=github_sponsor_button)
 
 ## Plugins
 
