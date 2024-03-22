@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/webdriverio/awesome-webdriverio#readme",
   "devDependencies": {
-    "awesome-lint": "^0.18.0"
+    "awesome-lint": "^1.1.0"
   }
 }
