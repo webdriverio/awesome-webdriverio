@@ -7,6 +7,7 @@
 
 # Awesome WebdriverIO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Test](https://github.com/webdriverio/awesome-webdriverio/actions/workflows/test.yaml/badge.svg)](https://github.com/webdriverio/awesome-webdriverio/actions/workflows/test.yaml)
 
+<!-- lint disable no-emphasis-as-heading -->
 **A curated list of awesome WebdriverIO resources, libraries, tools and applications**
 
 Inspired by the [awesome](https://awesome.re) list. Feel free to improve this list by [contributing](https://github.com/webdriverio/awesome-webdriverio/blob/master/contributing.md)!
