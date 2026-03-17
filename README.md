@@ -97,6 +97,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 - [AWS Device Farm](https://github.com/awslabs/wdio-aws-device-farm-service) - AWS Device Farm service.
 - [OCR service for Appium Native Apps](https://github.com/wswebcreation/wdio-ocr-service) - Run Tesseract OCR for Appium Native App tests.
 - [Auto-detect missing imports w/eslint](https://github.com/jamesmortensen/wdio-eslinter-service) - Automatically run eslint checks prior to executing tests.
+- [wopee.wdio](https://github.com/autonomous-testing/wopee.wdio) - Visual regression testing service by Wopee.io with autonomous test maintenance and AI-powered healing.
 
 ### Reporters
 
