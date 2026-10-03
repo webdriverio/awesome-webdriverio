@@ -113,6 +113,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 - [Markdown](https://github.com/carmenmitru/wdio-markdown-reporter) - Report results in Markdown format.
 - [Delta Reporter](https://github.com/delta-reporter/delta-reporter-wdio) - Report results in Delta Reporter format.
 - [Teamcity](https://github.com/webdriverio-community/wdio-teamcity-reporter) - Report results to the build results page of Teamcity Portal.
+- [Qualflare](https://github.com/Qualflare/qualflare-webdriverio) - Report results to Qualflare, with per-attempt retry history, screenshots and device capabilities.
 
 ### Miscellaneous
 
