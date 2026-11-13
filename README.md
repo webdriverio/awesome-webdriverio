@@ -121,6 +121,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 - [@badisi/wdio-harness](https://github.com/Badisi/wdio-harness) - WebdriverIO support for Angular component test harnesses.
 - [@rbnx/webdriverio](https://github.com/Roozenboom/rbnx/tree/main/packages/webdriverio) - Nx plugin that adds WebdriverIO support to a Nx workspace.
 - [@rahularanger/WTicks](https://github.com/RahulARanger/WTicks) - A tool for exporting Selenium `.side` files into a WebdriverIO script.
+- [test-inventory](https://github.com/Huldoser/test-inventory) - Extract declared test titles, states and skip reasons as JSON without running the suite.
 
 ## Research & Training
 
